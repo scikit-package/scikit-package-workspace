@@ -55,6 +55,7 @@ repos:
     rev: v4.0.0-alpha.8
     hooks:
       - id: prettier
+        exclude: "^.*{{.*}}.*$" # exclude jinja2 template files
         additional_dependencies:
           - "prettier@^3.2.4"
   # docformatter - PEP 257 compliant docstring formatter

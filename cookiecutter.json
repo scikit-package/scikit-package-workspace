@@ -1,3 +1,4 @@
 {
-  "folder_name": "workspace-folder"
+  "workspace_name": "workspace-folder",
+  "subproject_name": "my-project"
 }
