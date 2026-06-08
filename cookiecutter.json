@@ -1,5 +1,5 @@
 {
   "workspace_name": "workspace-folder",
   "subproject_name": "my-project",
-  "__script_name" : "{{ cookiecutter.subproject_name|replace('-','_')|lower }}_code.py"
+  "__script_name": "{{ cookiecutter.subproject_name|replace('-','_')|lower }}_code.py"
 }
