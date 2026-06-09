@@ -4,6 +4,19 @@ Release notes
 
 .. current developments
 
+0.1.3
+=====
+
+**Added:**
+
+* Allow user to set the subfolder name.
+
+**Fixed:**
+
+* Remove jinja2 templating in the file names to make them compatible in the windows filesystem.
+* Update the deprecated workflows.
+
+
 0.1.2
 =====
 
